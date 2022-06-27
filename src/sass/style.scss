@@ -22,6 +22,7 @@
     margin: 25px auto 0 auto;
 }
 
+@import "block/animate.min";
 @import "block/promo";
 @import "block/title";
 @import "block/button";
@@ -30,3 +31,5 @@
 @import "block/about";
 @import "block/resume";
 @import "block/skills";
+@import "block/portfolio";
+@import "block/price";
