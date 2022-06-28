@@ -15,6 +15,10 @@
     margin: 0 auto;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .divider {
     width: 60px;
     height: 3px;
@@ -33,3 +37,4 @@
 @import "block/skills";
 @import "block/portfolio";
 @import "block/price";
+@import "block/contacts";
